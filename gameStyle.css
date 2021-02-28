@@ -1,0 +1,14 @@
+button.number {
+    height: 30px;
+    width: 30px;
+    color: #000000;
+    background-color: #dddddd;
+    border-color: #eeeeee;
+    margin: 5px;
+}
+
+button.off {
+    background-color: #555555;
+    border-color: #666666;
+}
+
